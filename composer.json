@@ -1,0 +1,5 @@
+{
+    "require": {
+        "recca0120/laravel-tracy": "^1.8"
+    }
+}
