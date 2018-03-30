@@ -1,5 +1,6 @@
 {
     "require": {
-        "recca0120/laravel-tracy": "^1.8"
+        "recca0120/laravel-tracy": "^1.8",
+        "vlucas/phpdotenv": "^2.4"
     }
 }
